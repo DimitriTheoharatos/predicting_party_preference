@@ -27,8 +27,6 @@ You will also need to have software installed to run and execute an [iPython Not
 
 
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
-
 
 ### Run
 
